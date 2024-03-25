@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋</h1>
 <h2 align="center">Khaldoun Amatoury</h3>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <h4 align="center">Programming the Future, One Line of Code at a Time👨‍💻</h1>
 
 
